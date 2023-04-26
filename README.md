@@ -1,4 +1,4 @@
-# PySpark_Hive_Postgres_ETL_Pipeline
+# PySpark: Hive to Postgres ETL Pipeline
 Creating a data ETL pipeline from Hive HDFS to PostgreSQL DB using PySpark on local IDE (PyCharm)
 
 For this project, I'll be using a local IDE to see if I can perform ETL using Apache Spark locally. 
